@@ -7,7 +7,7 @@ O objetivo principal é comparar o desempenho de modelos mais tradicionais, como
 
 ## Descrição do Projeto
 O projeto utiliza dados históricos de cotações da PETR4.SA, obtidos através da biblioteca **yfinance**, para treinar e avaliar modelos preditivos.  
-O notebook Jupyter **`tcc (1).ipynb`** detalha todas as etapas do processo, desde a importação e tratamento dos dados até a conclusão.
+O notebook Jupyter **`project.ipynb`** detalha todas as etapas do processo, desde a importação e tratamento dos dados até a conclusão.
 
 ---
 
@@ -84,5 +84,5 @@ Criação de variáveis técnicas comumente usadas em análise de mercado financ
    git clone <url_do_seu_repositorio>
 
 2. Instale as dependências:
-
-pip install -r requirements.txt
+```bash
+   pip install -r requirements.txt
