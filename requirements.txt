@@ -1,0 +1,22 @@
+# Manipulação e análise de dados
+pandas
+numpy
+
+# Visualização
+matplotlib
+seaborn
+
+# Machine Learning clássico
+scikit-learn
+
+# Séries temporais
+statsmodels
+pmdarima
+
+# Redes neurais (LSTM)
+tensorflow
+keras
+
+# Coleta de dados financeiros
+yfinance
+
